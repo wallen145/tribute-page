@@ -1,0 +1,40 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+main {
+    padding: 0 2em 0 2em;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0em 0 1em 0;
+}
+
+#evolution {
+    padding: 0 10vw 0 10vw;
+}
+
+#image {
+    display: block;
+    width: 40vw;
+    max-width: 50vw;
+    padding: 0 0 1em 0;
+}
+
+#img-caption {
+    max-width: 50vw;
+}
+
+#img-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1em 0 1em 0;
+}
